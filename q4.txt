@@ -1,0 +1,11 @@
+Dá para analisar a distância percorrida por cada um. O carro percorre 100 km a uma velocidade
+constante de 110 km/h e leva cerca de 54,55 minutos para chegar a Franca, enquanto o caminhão
+percorre a mesma distância a uma velocidade constante de 80 km/h, mas precisa passar por dois
+pedágios que retardam sua velocidade em 5 minutos cada, levando cerca de 77,5 minutos para
+percorrer os 100 km. Se eles se encontrarem exatamente no meio da distância entre Ribeirão
+Preto e Franca, que é de 100 km, cada um terá percorrido 50 km. O carro levou 27,27 minutos
+para percorrer 50 km e mais 54,55 minutos para percorrer os outros 50 km até Franca,
+totalizando 81,82 minutos. Já o caminhão levou 77,5 minutos para percorrer os primeiros
+100 km, mas apenas 37,5 minutos para percorrer os últimos 50 km até o ponto de cruzamento.
+Isso totaliza 115 minutos. Portanto, quando os veículos se cruzarem, o carro estará mais
+próximo de Ribeirão Preto.
